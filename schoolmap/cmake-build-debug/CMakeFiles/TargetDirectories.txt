@@ -1,0 +1,3 @@
+D:/Personal Documents/A_C_Projects/schoolmap2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Personal Documents/A_C_Projects/schoolmap2/cmake-build-debug/CMakeFiles/schoolmap2.dir
+D:/Personal Documents/A_C_Projects/schoolmap2/cmake-build-debug/CMakeFiles/edit_cache.dir
